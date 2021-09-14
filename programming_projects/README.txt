@@ -1,0 +1,1 @@
+These are the two main projects I worked on for the course

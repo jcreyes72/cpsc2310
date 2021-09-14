@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600728228 source:c:\users\julio\documents\c programming\cpsc 2310\mimir assignments\fun with converting\main.c
+	"functions.h"
+
+1600715398 c:\users\julio\documents\c programming\cpsc 2310\mimir assignments\fun with converting\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1600733593 source:c:\users\julio\documents\c programming\cpsc 2310\mimir assignments\fun with converting\functions.c
+	"functions.h"
+

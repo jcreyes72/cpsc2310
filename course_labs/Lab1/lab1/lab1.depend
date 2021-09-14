@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598722486 source:c:\users\julio\documents\c programming\cpsc 2310\lab1\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1598718262 c:\users\julio\documents\c programming\cpsc 2310\lab1\lab1\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1598727303 source:c:\users\julio\documents\c programming\cpsc 2310\lab1\lab1\functions.c
+	"functions.h"
+

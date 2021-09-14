@@ -1,0 +1,1 @@
+Here's some, or one rather, activity which was done on the coding practice website Mimir
